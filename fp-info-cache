@@ -1,4 +1,11 @@
-56441985654243
+67121787894417
+PCB
+M3.5
+
+
+0
+0
+0
 PCB
 battery_wires
 
@@ -55,6 +62,13 @@ SOP-8
 0
 12
 9
+SOP
+SOP-16
+
+
+0
+16
+16
 SOT
 SOT-23
 
@@ -98,12 +112,26 @@ TSSOP-8
 8
 8
 USB
+USB4105-GF-A
+
+
+0
+16
+16
+USB
 micro_usb
 
 
 0
 11
 6
+anacron
+sega-2-controller
+
+
+0
+14
+1
 buttons
 sw_3x4
 
@@ -139,6 +167,13 @@ hardware_crew
 0
 0
 0
+espressif
+ESP-12F
+
+
+0
+22
+22
 espressif
 ESP-23-WROOM
 
@@ -221,8 +256,15 @@ pin_headers
 
 
 0
-6
-6
+7
+7
+pin_headers
+1x8
+
+
+0
+8
+8
 pin_headers
 2x2
 
